@@ -50,9 +50,9 @@ customer_support_analysis/
 ## 🚀 How to Run
 
 1. "Install Dependencies"
-bash
+```
    pip install -r requirements.txt
-
+```
 ## Run the Analysis
 ```
 python main.py
