@@ -1,0 +1,506 @@
+Top 10 keywords by Product Purchased:
+
+Adobe Photoshop:
+  productpurchased: 308
+  issue: 263
+  assist: 139
+  product: 41
+  problem: 36
+  using: 32
+  software: 32
+  help: 31
+  account: 28
+  times: 26
+
+Amazon Echo:
+  productpurchased: 364
+  issue: 297
+  assist: 153
+  problem: 55
+  data: 52
+  product: 47
+  software: 39
+  need: 37
+  noticed: 36
+  account: 35
+
+Amazon Kindle:
+  productpurchased: 333
+  issue: 280
+  assist: 147
+  problem: 53
+  data: 49
+  product: 46
+  account: 39
+  steps: 37
+  persists: 34
+  update: 31
+
+Apple AirPods:
+  productpurchased: 360
+  issue: 299
+  assist: 167
+  product: 70
+  problem: 57
+  data: 48
+  software: 38
+  resolve: 36
+  noticed: 34
+  steps: 33
+
+Asus ROG:
+  productpurchased: 316
+  issue: 260
+  assist: 144
+  product: 57
+  problem: 47
+  noticed: 35
+  account: 35
+  software: 30
+  using: 29
+  data: 28
+
+Autodesk AutoCAD:
+  productpurchased: 324
+  issue: 278
+  assist: 152
+  product: 56
+  data: 46
+  problem: 45
+  software: 40
+  resolve: 36
+  help: 35
+  account: 34
+
+Bose QuietComfort:
+  productpurchased: 307
+  issue: 277
+  assist: 147
+  product: 58
+  problem: 46
+  account: 44
+  persists: 36
+  data: 36
+  noticed: 35
+  tried: 32
+
+Bose SoundLink Speaker:
+  productpurchased: 326
+  issue: 274
+  assist: 142
+  problem: 49
+  product: 47
+  data: 38
+  steps: 37
+  times: 36
+  unable: 33
+  software: 33
+
+Canon DSLR Camera:
+  productpurchased: 340
+  issue: 280
+  assist: 155
+  problem: 60
+  account: 51
+  steps: 46
+  product: 41
+  persists: 41
+  software: 39
+  data: 36
+
+Canon EOS:
+  productpurchased: 428
+  issue: 326
+  assist: 183
+  problem: 65
+  product: 64
+  steps: 55
+  persists: 48
+  update: 48
+  tried: 48
+  data: 42
+
+Dell XPS:
+  productpurchased: 319
+  issue: 255
+  assist: 135
+  product: 64
+  problem: 52
+  data: 39
+  update: 34
+  software: 33
+  steps: 30
+  started: 30
+
+Dyson Vacuum Cleaner:
+  productpurchased: 321
+  issue: 265
+  assist: 145
+  problem: 59
+  product: 53
+  data: 41
+  software: 39
+  steps: 34
+  using: 32
+  device: 31
+
+Fitbit Charge:
+  productpurchased: 341
+  issue: 283
+  assist: 148
+  product: 53
+  problem: 53
+  data: 45
+  persists: 43
+  tried: 42
+  software: 35
+  device: 35
+
+Fitbit Versa Smartwatch:
+  productpurchased: 320
+  issue: 253
+  assist: 143
+  problem: 55
+  product: 40
+  data: 40
+  software: 38
+  account: 33
+  use: 30
+  resolve: 30
+
+Garmin Forerunner:
+  productpurchased: 347
+  issue: 279
+  assist: 135
+  problem: 49
+  data: 45
+  product: 44
+  account: 41
+  steps: 38
+  software: 37
+  unable: 37
+
+GoPro Action Camera:
+  productpurchased: 290
+  issue: 270
+  assist: 125
+  product: 50
+  problem: 50
+  steps: 49
+  persists: 46
+  account: 39
+  data: 38
+  tried: 34
+
+GoPro Hero:
+  productpurchased: 358
+  issue: 294
+  assist: 171
+  product: 64
+  problem: 59
+  software: 54
+  account: 46
+  data: 45
+  times: 37
+  device: 36
+
+Google Nest:
+  productpurchased: 332
+  issue: 263
+  assist: 160
+  product: 59
+  problem: 47
+  data: 40
+  account: 37
+  unable: 32
+  steps: 31
+  software: 30
+
+Google Pixel:
+  productpurchased: 340
+  issue: 273
+  assist: 147
+  problem: 60
+  product: 55
+  data: 47
+  unable: 31
+  persists: 30
+  using: 29
+  need: 28
+
+HP Pavilion:
+  productpurchased: 322
+  issue: 294
+  assist: 155
+  product: 50
+  problem: 43
+  account: 41
+  steps: 35
+  persists: 31
+  data: 31
+  software: 30
+
+LG OLED:
+  productpurchased: 351
+  issue: 281
+  assist: 155
+  problem: 68
+  software: 49
+  product: 40
+  resolve: 38
+  help: 36
+  noticed: 35
+  use: 34
+
+LG Smart TV:
+  productpurchased: 360
+  issue: 293
+  assist: 157
+  product: 68
+  problem: 52
+  account: 49
+  noticed: 43
+  data: 37
+  software: 37
+  need: 36
+
+LG Washing Machine:
+  productpurchased: 348
+  issue: 293
+  assist: 162
+  product: 65
+  problem: 59
+  data: 41
+  software: 38
+  steps: 33
+  update: 31
+  resolve: 31
+
+Lenovo ThinkPad:
+  productpurchased: 301
+  issue: 248
+  assist: 124
+  problem: 53
+  data: 47
+  product: 47
+  steps: 36
+  persists: 35
+  software: 34
+  resolve: 31
+
+MacBook Pro:
+  productpurchased: 313
+  issue: 248
+  assist: 140
+  product: 48
+  problem: 40
+  steps: 37
+  persists: 35
+  software: 34
+  tried: 31
+  data: 30
+
+Microsoft Office:
+  productpurchased: 343
+  issue: 263
+  assist: 147
+  product: 49
+  problem: 46
+  data: 46
+  software: 40
+  noticed: 39
+  steps: 38
+  unable: 29
+
+Microsoft Surface:
+  productpurchased: 299
+  issue: 253
+  assist: 144
+  problem: 64
+  product: 41
+  account: 40
+  software: 37
+  steps: 34
+  device: 34
+  started: 32
+
+Microsoft Xbox Controller:
+  productpurchased: 327
+  issue: 264
+  assist: 144
+  problem: 56
+  account: 53
+  data: 44
+  product: 38
+  noticed: 34
+  steps: 33
+  resolve: 29
+
+Nest Thermostat:
+  productpurchased: 385
+  issue: 287
+  assist: 166
+  product: 91
+  problem: 63
+  account: 43
+  help: 41
+  steps: 40
+  data: 39
+  resolve: 37
+
+Nikon D:
+  productpurchased: 340
+  issue: 276
+  assist: 152
+  problem: 59
+  product: 56
+  account: 46
+  software: 33
+  support: 31
+  steps: 30
+  times: 30
+
+Nintendo Switch:
+  productpurchased: 292
+  issue: 225
+  assist: 136
+  product: 65
+  problem: 47
+  data: 44
+  account: 40
+  software: 36
+  steps: 30
+  tried: 27
+
+Nintendo Switch Pro Controller:
+  productpurchased: 322
+  issue: 279
+  assist: 156
+  product: 52
+  problem: 42
+  software: 42
+  steps: 32
+  noticed: 31
+  help: 31
+  account: 31
+
+Philips Hue Lights:
+  productpurchased: 361
+  issue: 300
+  assist: 164
+  problem: 72
+  product: 65
+  software: 47
+  data: 40
+  help: 35
+  support: 34
+  account: 31
+
+PlayStation:
+  productpurchased: 322
+  issue: 267
+  assist: 143
+  product: 56
+  problem: 51
+  software: 36
+  data: 36
+  resolve: 31
+  using: 31
+  steps: 30
+
+Roomba Robot Vacuum:
+  productpurchased: 348
+  issue: 304
+  assist: 150
+  problem: 63
+  account: 58
+  product: 43
+  data: 41
+  software: 39
+  update: 36
+  noticed: 33
+
+Samsung Galaxy:
+  productpurchased: 314
+  issue: 257
+  assist: 145
+  problem: 56
+  product: 54
+  software: 38
+  update: 34
+  steps: 32
+  device: 32
+  data: 30
+
+Samsung Soundbar:
+  productpurchased: 293
+  issue: 246
+  assist: 136
+  problem: 52
+  software: 45
+  product: 43
+  data: 42
+  account: 38
+  noticed: 33
+  need: 31
+
+Sony 4K HDR TV:
+  productpurchased: 362
+  issue: 277
+  assist: 146
+  problem: 69
+  software: 43
+  help: 42
+  product: 41
+  steps: 39
+  account: 37
+  resolve: 35
+
+Sony PlayStation:
+  productpurchased: 335
+  issue: 280
+  assist: 155
+  product: 68
+  problem: 54
+  software: 49
+  data: 37
+  update: 35
+  noticed: 34
+  use: 30
+
+Sony Xperia:
+  productpurchased: 359
+  issue: 300
+  assist: 143
+  problem: 64
+  product: 58
+  account: 55
+  data: 51
+  software: 41
+  help: 36
+  noticed: 36
+
+Xbox:
+  productpurchased: 329
+  issue: 247
+  assist: 140
+  product: 57
+  problem: 53
+  data: 40
+  software: 39
+  noticed: 32
+  persists: 30
+  resolve: 29
+
+iPhone:
+  productpurchased: 348
+  issue: 279
+  assist: 152
+  product: 66
+  problem: 62
+  data: 45
+  steps: 42
+  resolve: 38
+  software: 35
+  using: 33
+

@@ -1,0 +1,38 @@
+Top Frequently Reported Issues:
+productpurchased: 14048
+issue: 11530
+assist: 6250
+problem: 2285
+product: 2270
+data: 1654
+software: 1552
+account: 1461
+steps: 1390
+noticed: 1208
+persists: 1178
+help: 1176
+resolve: 1165
+update: 1155
+device: 1106
+unable: 1088
+tried: 1034
+using: 1029
+need: 1018
+started: 981
+
+Sentiment Summary:
+Sentiment Overview (Mean Score, Min, Max, etc.):
+count    8469.000000
+mean        0.127483
+std         0.413699
+min        -0.924600
+25%        -0.167500
+50%         0.102700
+75%         0.421500
+max         0.975000
+Name: processed_text, dtype: float64
+
+Sentiment Distribution:
+Positive: 3618
+Neutral: 2790
+Negative: 2061

@@ -1,0 +1,50 @@
+Top 10 keywords by Ticket Priority:
+
+Critical:
+  productpurchased: 3561
+  issue: 2933
+  assist: 1587
+  product: 611
+  problem: 539
+  data: 453
+  software: 405
+  account: 355
+  steps: 354
+  update: 306
+
+High:
+  productpurchased: 3446
+  issue: 2778
+  assist: 1490
+  problem: 589
+  product: 541
+  data: 409
+  software: 403
+  account: 381
+  steps: 321
+  noticed: 300
+
+Low:
+  productpurchased: 3433
+  issue: 2824
+  assist: 1539
+  problem: 558
+  product: 532
+  data: 385
+  software: 362
+  account: 345
+  steps: 313
+  noticed: 299
+
+Medium:
+  productpurchased: 3608
+  issue: 2995
+  assist: 1634
+  problem: 599
+  product: 586
+  data: 407
+  steps: 402
+  software: 382
+  account: 380
+  resolve: 316
+
