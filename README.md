@@ -76,13 +76,13 @@ Open the output/ folder for reports and graphs
 - summary_report.txt — global keyword summary
 
 ## ✅ Task Coverage
-
+```
 -Preprocessing
 -Keyword Frequency
 -Grouped Analysis
 -Sentiment Analysis
 -Visualizations
-
+```
 ## 📌 Note
 
 You only need to run main.py — all other scripts are modular and automatically called from it.
